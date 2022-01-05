@@ -1,5 +1,17 @@
 ### Cognizant
 
+Apresenta soluções e comentários aos desafios propostos  no Bootcamp Cognizant Java Developers da Dio . 
+
+Como forma de estudo, modifiquei a estrutura basica de solução apresentada inicialmente  em algums desafios. 
+
+Os códigos dos desafios estão organizados em packages de nome **Iniciante** e **Java2**, e o nome das classes remetem ao tema dos desafios ( DDD, Elfos , Tela, etc )
+
+Foram desenvolvidos em Java 11  e Intellij 
+
+Abaixo , segue descrições dos desafios. 
+
+
+
 ## ***Desafios Iniciantes***
 
 
